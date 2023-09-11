@@ -1,0 +1,5 @@
+Welcome to MEH. My ultimante made by AI project. this AI scraps info off of wikipedia on first launch. I pre setted it to gather data on AI_concepts, tech_concepts and human_evolution. But you can change that in the main.py 
+also its sset to find 1000 articles so it may take a while. Feel free to change this if you want it to take less time.
+This code is fully open source. so feel free to use it.
+
+
